@@ -1,16 +1,16 @@
-## Hi there 👋
+### About Me
+I'm a security researcher focusing on Web3 security. In a past life I was in R&D, then an entrepreneur, then VP sales of other startups. 
 
-<!--
-**nirohgo/nirohgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run private audits (through [Stateless Labs](https://statelesslabs.xyz/)) as well as the ocasional auditing competitions. 
 
-Here are some ideas to get you started:
+Below are some of my credits:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Public Audit Contests
+
+
+For private audits or security consulting, please reach out to me on Twitter ([@niroh30](https://x.com/niroh30)).
+
+!contest!Ranking|Platform|
+!----!----!----!
+![Nouns Builder](https://audits.sherlock.xyz/contests/111/leaderboard)|Third|Sherlock|
+![Olympus RBS 2.0]([https://audits.sherlock.xyz/contests/128/leaderboard])|Third|Sherlock|
