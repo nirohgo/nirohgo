@@ -11,6 +11,6 @@ Below are some of my credits:
 
 
 |contest|Ranking|Platform|
-|----|----|----|
+|--------------------|--------------------|--------------------|
 |[Nouns Builder](https://audits.sherlock.xyz/contests/111/leaderboard)|Third|Sherlock|
 |[Olympus RBS 2.0](https://audits.sherlock.xyz/contests/128/leaderboard)|Third|Sherlock|
