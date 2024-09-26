@@ -7,6 +7,11 @@ For private audits or security consulting, please reach out to me on Twitter ([@
 
 Below are some of my credits:
 
+## Findings
+**High:** 7
+**Medium:** 13
+**Grade A reports (Code4rena)** - 4
+
 ## Public Audit Contests
 
 
@@ -21,3 +26,8 @@ Below are some of my credits:
 |[Optimism Fault Proofs](https://audits.sherlock.xyz/contests/205/leaderboard)|#6 |Sherlock|
 |[Notional Leveraged Vaults](https://audits.sherlock.xyz/contests/446/leaderboard)|#4 |Sherlock|
 |[MakerDAO Endgame](https://audits.sherlock.xyz/contests/333/leaderboard)|#20  |Sherlock|
+|[Salty.io](https://code4rena.com/audits/2024-01-saltyio)|#8  |Code4rena|
+|[Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild)|#28  |Code4rena|
+|[CCIP V1.5](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)|#5  |CodeHawks|
+
+
