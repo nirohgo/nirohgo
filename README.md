@@ -1,5 +1,5 @@
 ## About Me
-I'm a security researcher focusing on Web3 security. In a past life I was in R&D, then an entrepreneur, then VP sales of other startups. 
+I'm a security researcher focusing on Web3 security. In a past life I held various R&D positions (mostly web2), then transitioned to sales climbing the ladder up to assuming VP sales positions of several Cyber Security startups, more recently decided to transition back to tech - entrepeneured several web3 MEV related projects, and finally landed in web3 security. 
 
 I run private audits (through [Stateless Labs](https://statelesslabs.xyz/)) as well as the ocasional auditing competitions. 
 
