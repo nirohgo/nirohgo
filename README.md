@@ -17,6 +17,8 @@ Below are some of my credits:
 
 |contest             |Ranking             |Platform             |
 |--------------------|--------------------|--------------------|
+|[Possum Labs](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard)|#2  |Hats Finance|
+|[Wise Lending](https://app.hats.finance/audit-competitions/wise-lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573/leaderboard)|#6  |Hats Finance|
 |[Nouns Builder](https://audits.sherlock.xyz/contests/111/leaderboard)|#3  |Sherlock|
 |[Olympus RBS 2.0](https://audits.sherlock.xyz/contests/128/leaderboard)|#4  |Sherlock|
 |[Ubiquity](https://audits.sherlock.xyz/contests/138/leaderboard)|#7 |Sherlock|
