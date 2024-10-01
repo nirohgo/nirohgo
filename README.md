@@ -8,8 +8,8 @@ For private audits or security consulting, please reach out to me on Twitter ([@
 Below are some of my credits:
 
 ## Findings
-**High:** 7
-**Medium:** 13
+**High:** 9
+**Medium:** 15
 **Grade A reports (Code4rena)** - 4
 
 ## Public Audit Contests
