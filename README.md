@@ -39,4 +39,4 @@ Usual Money
 
 Anvil
 
-M1
+M0
